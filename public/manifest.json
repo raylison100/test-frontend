@@ -1,0 +1,10 @@
+{
+  "name": "test-frontend",
+  "short_name": "test-frontend",
+  "theme_color": "#4DBA87",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000"
+}
